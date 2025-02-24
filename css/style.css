@@ -1,0 +1,1207 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+.bc-description__content p:first-letter {
+  padding-left: 0 !important;
+}
+
+#rkt-tefal-bl19h4fo {
+  font-family: "Roboto", sans-serif;
+  width: 100%;
+  height: auto;
+  position: relative;
+  overflow: hidden;
+  background: #fff;
+}
+#rkt-tefal-bl19h4fo h2, #rkt-tefal-bl19h4fo h3, #rkt-tefal-bl19h4fo h4, #rkt-tefal-bl19h4fo h5, #rkt-tefal-bl19h4fo h6, #rkt-tefal-bl19h4fo p {
+  color: #161616;
+  margin: 0;
+  padding: 0;
+  line-height: 1.2;
+  text-align: left;
+  text-transform: none;
+}
+#rkt-tefal-bl19h4fo ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+#rkt-tefal-bl19h4fo img {
+  display: block;
+  max-width: 100%;
+  opacity: 1;
+  margin: 0 auto;
+}
+#rkt-tefal-bl19h4fo img:hover {
+  opacity: 1;
+}
+#rkt-tefal-bl19h4fo video {
+  width: 100%;
+  height: 100%;
+}
+#rkt-tefal-bl19h4fo h2 {
+  font-size: 48px;
+  font-weight: 900;
+  text-align: center;
+  text-transform: uppercase;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo h2 {
+    font-size: -webkit-calc(22px + 26 * (100vw - 320px) / 703);
+    font-size: calc(22px + 26 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo h2:has(+ p) {
+  margin-bottom: 10px;
+}
+#rkt-tefal-bl19h4fo h3 {
+  font-size: 36px;
+  text-align: center;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo h3 {
+    font-size: -webkit-calc(20px + 16 * (100vw - 320px) / 703);
+    font-size: calc(20px + 16 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo h3:has(+ p) {
+  margin-bottom: 10px;
+}
+#rkt-tefal-bl19h4fo p {
+  font-size: 20px;
+  text-align: center;
+  font-weight: 400;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo p {
+    font-size: -webkit-calc(16px + 4 * (100vw - 320px) / 703);
+    font-size: calc(16px + 4 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo p::first-letter {
+  padding-left: 0;
+}
+#rkt-tefal-bl19h4fo p:not(:last-child) {
+  margin-bottom: 10px;
+}
+#rkt-tefal-bl19h4fo ul {
+  margin-left: 25px;
+}
+#rkt-tefal-bl19h4fo ul li {
+  font-size: 20px;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo ul li {
+    font-size: -webkit-calc(16px + 4 * (100vw - 320px) / 703);
+    font-size: calc(16px + 4 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo ul li:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+#rkt-tefal-bl19h4fo .bc-description__content p {
+  margin-bottom: 0;
+}
+
+#rkt-tefal-bl19h4fo .bc-description__content h3 {
+  text-align: left;
+}
+
+#rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__container {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  max-width: 1006px;
+  overflow: hidden;
+  padding: 0 10px;
+  margin: 0 auto;
+}
+
+#rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__logo {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+     -moz-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  gap: 10px;
+  padding: 10px 15px;
+}
+#rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__series p span {
+  font-size: 18px;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__series p span {
+    font-size: -webkit-calc(14px + 4 * (100vw - 320px) / 703);
+    font-size: calc(14px + 4 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__title {
+  margin: 15px;
+}
+#rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__title h2 {
+  position: relative;
+  z-index: 5;
+  padding: 15px;
+}
+#rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__title h2::before {
+  content: "";
+  background-image: url("../img/line_t.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  -webkit-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+  position: absolute;
+  z-index: 7;
+  top: 0;
+  left: 0;
+  width: 76.667px;
+  height: 30px;
+}
+#rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__title h2::after {
+  content: "";
+  background-image: url("../img/line_b.png");
+  background-repeat: no-repeat;
+  background-position: top center;
+  -webkit-background-size: cover;
+       -o-background-size: cover;
+          background-size: cover;
+  position: absolute;
+  z-index: 7;
+  bottom: 0;
+  right: 0;
+  width: 76.667px;
+  height: 30px;
+}
+#rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__text {
+  padding: 15px 10px;
+}
+
+#rkt-tefal-bl19h4fo .video-box__video {
+  padding-bottom: 56.25%;
+  position: relative;
+  height: 0;
+  overflow: hidden;
+}
+#rkt-tefal-bl19h4fo .video-box__video iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+#rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__inner {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+     -moz-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+#rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__item {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+     -moz-box-orient: vertical;
+     -moz-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+#rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__item_rev {
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: reverse;
+  -webkit-flex-direction: column-reverse;
+     -moz-box-orient: vertical;
+     -moz-box-direction: reverse;
+      -ms-flex-direction: column-reverse;
+          flex-direction: column-reverse;
+}
+#rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__text {
+  padding: 15px 10px;
+}
+#rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__text p span {
+  font-size: 14px;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__text p span {
+    font-size: -webkit-calc(10px + 4 * (100vw - 320px) / 703);
+    font-size: calc(10px + 4 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__txt-bg {
+  padding: 15px 10px;
+  background: #FFEAD4;
+}
+#rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__icon {
+  padding: 10px 15px;
+}
+#rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__icon img {
+  width: 50%;
+}
+
+#rkt-tefal-bl19h4fo .vegan-tefal-bl19h4fo__image {
+  position: relative;
+  z-index: 6;
+  width: 85%;
+  margin-left: auto;
+}
+#rkt-tefal-bl19h4fo .vegan-tefal-bl19h4fo__img-s {
+  position: absolute;
+  z-index: 7;
+  top: 30%;
+  left: -20%;
+  right: 80%;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+       -o-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__inner {
+  position: relative;
+  z-index: 6;
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: end;
+  -webkit-align-items: flex-end;
+     -moz-box-align: end;
+      -ms-flex-align: end;
+          align-items: flex-end;
+  position: absolute;
+  z-index: 7;
+  -webkit-transform: translateY(-50%);
+      -ms-transform: translateY(-50%);
+       -o-transform: translateY(-50%);
+          transform: translateY(-50%);
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item_rev {
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: reverse;
+  -webkit-flex-direction: row-reverse;
+     -moz-box-orient: horizontal;
+     -moz-box-direction: reverse;
+      -ms-flex-direction: row-reverse;
+          flex-direction: row-reverse;
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(1) {
+  left: 90px;
+  right: 60%;
+  top: 24%;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(1) {
+    left: -webkit-calc(10px + 80 * (100vw - 320px) / 703);
+    left: calc(10px + 80 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(2) {
+  left: 90px;
+  right: 60%;
+  top: 55%;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(2) {
+    left: -webkit-calc(10px + 80 * (100vw - 320px) / 703);
+    left: calc(10px + 80 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(3) {
+  left: 90px;
+  right: 60%;
+  top: 85%;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(3) {
+    left: -webkit-calc(10px + 80 * (100vw - 320px) / 703);
+    left: calc(10px + 80 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(4) {
+  left: 61%;
+  right: 90px;
+  top: 17%;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(4) {
+    right: -webkit-calc(10px + 80 * (100vw - 320px) / 703);
+    right: calc(10px + 80 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(5) {
+  left: 65%;
+  right: 90px;
+  top: 50%;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(5) {
+    right: -webkit-calc(10px + 80 * (100vw - 320px) / 703);
+    right: calc(10px + 80 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(6) {
+  left: 65%;
+  right: 90px;
+  top: 85%;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(6) {
+    right: -webkit-calc(10px + 80 * (100vw - 320px) / 703);
+    right: calc(10px + 80 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 1 auto;
+     -moz-box-flex: 0;
+      -ms-flex: 0 1 auto;
+          flex: 0 1 auto;
+  background: #fff;
+  -webkit-border-radius: 30px;
+          border-radius: 30px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt {
+    -webkit-border-radius: -webkit-calc(8px + 22 * (100vw - 320px) / 703);
+            border-radius: calc(8px + 22 * (100vw - 320px) / 703);
+  }
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt {
+    padding-left: -webkit-calc(5px + 10 * (100vw - 320px) / 703);
+    padding-left: calc(5px + 10 * (100vw - 320px) / 703);
+  }
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt {
+    padding-right: -webkit-calc(5px + 10 * (100vw - 320px) / 703);
+    padding-right: calc(5px + 10 * (100vw - 320px) / 703);
+  }
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt {
+    padding-top: -webkit-calc(5px + 10 * (100vw - 320px) / 703);
+    padding-top: calc(5px + 10 * (100vw - 320px) / 703);
+  }
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt {
+    padding-bottom: -webkit-calc(5px + 10 * (100vw - 320px) / 703);
+    padding-bottom: calc(5px + 10 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt h4 {
+  font-size: 16px;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt h4 {
+    font-size: -webkit-calc(8px + 8 * (100vw - 320px) / 703);
+    font-size: calc(8px + 8 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt p {
+  font-size: 16px;
+  text-align: left;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt p {
+    font-size: -webkit-calc(9px + 7 * (100vw - 320px) / 703);
+    font-size: calc(9px + 7 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt p:not(:last-child) {
+  margin-bottom: 3px;
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt p span {
+  font-size: 12px;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt p span {
+    font-size: -webkit-calc(8px + 4 * (100vw - 320px) / 703);
+    font-size: calc(8px + 4 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line {
+  -webkit-box-flex: 0;
+  -webkit-flex: 0 1 50%;
+     -moz-box-flex: 0;
+      -ms-flex: 0 1 50%;
+          flex: 0 1 50%;
+  position: absolute;
+  z-index: -1;
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_1, #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_2 {
+  bottom: 0;
+  left: 50%;
+  right: -10px;
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_3 {
+  top: 0;
+  left: 50%;
+  right: -10px;
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_4, #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_5 {
+  bottom: 0;
+  right: 50%;
+  left: -10px;
+}
+#rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_6 {
+  top: 0;
+  right: 50%;
+  left: -10px;
+}
+
+#rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__item {
+  padding-bottom: 28px;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__item {
+    padding-bottom: -webkit-calc(10px + 18 * (100vw - 320px) / 703);
+    padding-bottom: calc(10px + 18 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__item p {
+  color: #0B0B08;
+}
+#rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__image {
+  display: block;
+  position: relative;
+  z-index: 5;
+  padding: 20px;
+}
+#rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__image img {
+  width: 100%;
+  height: 100%;
+}
+#rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__image::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 50%;
+  left: 15px;
+  right: 15px;
+  bottom: 0;
+  background: #f2f2f2;
+  -webkit-border-top-left-radius: 25px;
+          border-top-left-radius: 25px;
+  -webkit-border-top-right-radius: 25px;
+          border-top-right-radius: 25px;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__image::before {
+    -webkit-border-top-left-radius: -webkit-calc(7px + 18 * (100vw - 320px) / 703);
+            border-top-left-radius: calc(7px + 18 * (100vw - 320px) / 703);
+  }
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__image::before {
+    -webkit-border-top-right-radius: -webkit-calc(7px + 18 * (100vw - 320px) / 703);
+            border-top-right-radius: calc(7px + 18 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text {
+  background: #f2f2f2;
+  margin: 0px 15px 10px;
+  padding: 12px 13px;
+  -webkit-border-bottom-left-radius: 25px;
+          border-bottom-left-radius: 25px;
+  -webkit-border-bottom-right-radius: 25px;
+          border-bottom-right-radius: 25px;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text {
+    -webkit-border-bottom-left-radius: -webkit-calc(7px + 18 * (100vw - 320px) / 703);
+            border-bottom-left-radius: calc(7px + 18 * (100vw - 320px) / 703);
+  }
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text {
+    -webkit-border-bottom-right-radius: -webkit-calc(7px + 18 * (100vw - 320px) / 703);
+            border-bottom-right-radius: calc(7px + 18 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text p:not(:last-child) {
+  margin-bottom: 10px;
+}
+#rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text p span {
+  font-size: 70px;
+  font-weight: 900;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text p span {
+    font-size: -webkit-calc(30px + 40 * (100vw - 320px) / 703);
+    font-size: calc(30px + 40 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text p sup {
+  font-size: 16px;
+  font-weight: 300;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text p sup {
+    font-size: -webkit-calc(12px + 4 * (100vw - 320px) / 703);
+    font-size: calc(12px + 4 * (100vw - 320px) / 703);
+  }
+}
+#rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__txt {
+  padding: 10px;
+}
+#rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__txt p sup {
+  font-size: 16px;
+  font-weight: 300;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__txt p sup {
+    font-size: -webkit-calc(12px + 4 * (100vw - 320px) / 703);
+    font-size: calc(12px + 4 * (100vw - 320px) / 703);
+  }
+}
+
+#rkt-tefal-bl19h4fo .table-tefal-bl19h4fo__inner {
+  padding: 10px 0px 15px;
+}
+#rkt-tefal-bl19h4fo .table-tefal-bl19h4fo__header {
+  padding: 10px 0px;
+}
+
+#rkt-tefal-bl19h4fo .box-table__cells {
+  display: grid;
+  grid-template-columns: 0.8fr repeat(4, 1fr);
+  overflow-x: scroll;
+  padding: 0px 10px 30px;
+}
+#rkt-tefal-bl19h4fo .box-table__cell {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+     -moz-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 10px 5px;
+}
+#rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+12), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+14), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+22), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+24) {
+  background: #FFEAD4;
+}
+#rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+13), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+15), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+23), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+25) {
+  background: #FFD8AF;
+}
+#rkt-tefal-bl19h4fo .box-table__cell:nth-child(5n+11) {
+  background: #fff;
+}
+#rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+17), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+19), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+27), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+29) {
+  background: rgba(255, 234, 212, 0.8);
+}
+#rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+18), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+20), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+28), #rkt-tefal-bl19h4fo .box-table__cell:nth-child(10n+30) {
+  background: rgba(255, 216, 175, 0.8);
+}
+#rkt-tefal-bl19h4fo .box-table__img {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+     -moz-box-align: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+  margin-bottom: 10px;
+}
+#rkt-tefal-bl19h4fo .box-table__text {
+  width: 100%;
+}
+#rkt-tefal-bl19h4fo .box-table__text p {
+  font-size: 16px;
+}
+@media (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .box-table__text p {
+    font-size: -webkit-calc(12px + 4 * (100vw - 320px) / 703);
+    font-size: calc(12px + 4 * (100vw - 320px) / 703);
+  }
+}
+
+#rkt-tefal-bl19h4fo .aside__box {
+  display: none;
+}
+
+@media (min-width: 479.98px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(1) {
+    right: 65%;
+    top: 30%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(2) {
+    right: 66%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(3) {
+    right: 66%;
+    top: 80%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(4) {
+    left: 70%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(5) {
+    left: 70%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(6) {
+    left: 70%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_1 {
+    right: -50%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_2 {
+    right: -40%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_3 {
+    top: 50%;
+    right: -45%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_4 {
+    left: -50%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_5 {
+    left: -50%;
+    top: 80%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_6 {
+    top: 25%;
+    left: -55%;
+  }
+}
+@media (min-width: 767.98px) {
+  #rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__container h3:has(+ p) {
+    margin-bottom: 25px;
+  }
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__logo {
+    padding-top: 38px;
+    padding-bottom: 38px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+@media (min-width: 767.98px) and (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__logo {
+    padding-left: -webkit-calc(10px + 40 * (100vw - 320px) / 703);
+    padding-left: calc(10px + 40 * (100vw - 320px) / 703);
+  }
+}
+@media (min-width: 767.98px) and (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__logo {
+    padding-right: -webkit-calc(10px + 40 * (100vw - 320px) / 703);
+    padding-right: calc(10px + 40 * (100vw - 320px) / 703);
+  }
+}
+@media (min-width: 767.98px) {
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__logo-img img {
+    width: 70%;
+    margin: 0;
+  }
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__header {
+    position: relative;
+    z-index: 5;
+  }
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__title {
+    position: absolute;
+    z-index: 6;
+    top: 30%;
+    left: 50px;
+    right: 35%;
+    -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+         -o-transform: translateY(-50%);
+            transform: translateY(-50%);
+  }
+}
+@media (min-width: 767.98px) and (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__title {
+    left: -webkit-calc(10px + 40 * (100vw - 320px) / 703);
+    left: calc(10px + 40 * (100vw - 320px) / 703);
+  }
+}
+@media (min-width: 767.98px) {
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__text {
+    padding-top: 45px;
+    padding-bottom: 45px;
+    padding-left: 75px;
+    padding-right: 75px;
+  }
+}
+@media (min-width: 767.98px) and (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__text {
+    padding-left: -webkit-calc(10px + 65 * (100vw - 320px) / 703);
+    padding-left: calc(10px + 65 * (100vw - 320px) / 703);
+  }
+}
+@media (min-width: 767.98px) and (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__text {
+    padding-right: -webkit-calc(10px + 65 * (100vw - 320px) / 703);
+    padding-right: calc(10px + 65 * (100vw - 320px) / 703);
+  }
+}
+@media (min-width: 767.98px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__inner {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: row;
+       -moz-box-orient: horizontal;
+       -moz-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__inner_rev {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: row-reverse;
+       -moz-box-orient: horizontal;
+       -moz-box-direction: reverse;
+        -ms-flex-direction: row-reverse;
+            flex-direction: row-reverse;
+  }
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__item {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 1 55%;
+       -moz-box-flex: 0;
+        -ms-flex: 0 1 55%;
+            flex: 0 1 55%;
+  }
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__item h3, #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__item p {
+    text-align: left;
+  }
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__text {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+@media (min-width: 767.98px) and (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__text {
+    padding-left: -webkit-calc(10px + 40 * (100vw - 320px) / 703);
+    padding-left: calc(10px + 40 * (100vw - 320px) / 703);
+  }
+}
+@media (min-width: 767.98px) and (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__text {
+    padding-right: -webkit-calc(10px + 40 * (100vw - 320px) / 703);
+    padding-right: calc(10px + 40 * (100vw - 320px) / 703);
+  }
+}
+@media (min-width: 767.98px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__txt-bg {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+@media (min-width: 767.98px) and (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__txt-bg {
+    padding-left: -webkit-calc(10px + 40 * (100vw - 320px) / 703);
+    padding-left: calc(10px + 40 * (100vw - 320px) / 703);
+  }
+}
+@media (min-width: 767.98px) and (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__txt-bg {
+    padding-right: -webkit-calc(10px + 40 * (100vw - 320px) / 703);
+    padding-right: calc(10px + 40 * (100vw - 320px) / 703);
+  }
+}
+@media (min-width: 767.98px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__icon {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+}
+@media (min-width: 767.98px) and (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__icon {
+    padding-left: -webkit-calc(10px + 40 * (100vw - 320px) / 703);
+    padding-left: calc(10px + 40 * (100vw - 320px) / 703);
+  }
+}
+@media (min-width: 767.98px) and (max-width: 1023px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__icon {
+    padding-right: -webkit-calc(10px + 40 * (100vw - 320px) / 703);
+    padding-right: calc(10px + 40 * (100vw - 320px) / 703);
+  }
+}
+@media (min-width: 767.98px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__icon img {
+    margin: 0;
+  }
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__image {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 1 45%;
+       -moz-box-flex: 0;
+        -ms-flex: 0 1 45%;
+            flex: 0 1 45%;
+  }
+  #rkt-tefal-bl19h4fo .vegan-tefal-bl19h4fo__item {
+    position: relative;
+    z-index: 99;
+  }
+  #rkt-tefal-bl19h4fo .vegan-tefal-bl19h4fo__text {
+    width: 75%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(1) {
+    right: 67%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(2) {
+    right: 67%;
+    top: 58%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(3) {
+    right: 67%;
+    top: 86%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(4) {
+    left: 63%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(5) {
+    top: 41%;
+    left: 63%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(6) {
+    left: 63%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_1 {
+    right: -45%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_3 {
+    right: -42%;
+    top: 63%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_6 {
+    top: 65%;
+    left: -48%;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__inner {
+    padding: 50px 0 0;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__item {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+       -moz-box-pack: end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+       -moz-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    -webkit-flex-direction: row-reverse;
+       -moz-box-orient: horizontal;
+       -moz-box-direction: reverse;
+        -ms-flex-direction: row-reverse;
+            flex-direction: row-reverse;
+    background-color: #f2f2f2;
+    padding: 0;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__image {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 1 40%;
+       -moz-box-flex: 0;
+        -ms-flex: 0 1 40%;
+            flex: 0 1 40%;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-align: center;
+    -webkit-align-items: center;
+       -moz-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    padding: 0 40px 0 0;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__image::before {
+    top: -1px;
+    left: 50%;
+    right: 0;
+    bottom: -1px;
+    -webkit-transform: translate(0);
+        -ms-transform: translate(0);
+         -o-transform: translate(0);
+            transform: translate(0);
+    background: #fff;
+    -webkit-border-radius: 0;
+            border-radius: 0;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text {
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 1 60%;
+       -moz-box-flex: 0;
+        -ms-flex: 0 1 60%;
+            flex: 0 1 60%;
+    padding: 20px 40px;
+    -webkit-border-bottom-right-radius: 0;
+            border-bottom-right-radius: 0;
+    -webkit-border-bottom-left-radius: 0;
+            border-bottom-left-radius: 0;
+    margin: 0;
+    background: transparent;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text p {
+    text-align: left;
+    max-width: 400px;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text p:nth-child(3) {
+    text-align: right;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__bott-box {
+    margin: 25px 40px;
+  }
+  #rkt-tefal-bl19h4fo .table-tefal-bl19h4fo__header {
+    padding: 40px 10px;
+  }
+}
+@media (min-width: 1024px) {
+  #rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__wrapper {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+       -moz-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
+  #rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__container {
+    padding: 0;
+    margin: 0;
+  }
+  #rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__container h2 {
+    font-size: 48px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1920px) {
+  #rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__container h2 {
+    font-size: -webkit-calc(22px + 26 * (100vw - 320px) / 1600);
+    font-size: calc(22px + 26 * (100vw - 320px) / 1600);
+  }
+}
+@media (min-width: 1024px) {
+  #rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__container h3 {
+    font-size: 36px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1920px) {
+  #rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__container h3 {
+    font-size: -webkit-calc(20px + 16 * (100vw - 320px) / 1600);
+    font-size: calc(20px + 16 * (100vw - 320px) / 1600);
+  }
+}
+@media (min-width: 1024px) {
+  #rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__container p {
+    font-size: 20px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1920px) {
+  #rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__container p {
+    font-size: -webkit-calc(14px + 6 * (100vw - 320px) / 1600);
+    font-size: calc(14px + 6 * (100vw - 320px) / 1600);
+  }
+}
+@media (min-width: 1024px) {
+  #rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__container ul li {
+    font-size: 20px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1920px) {
+  #rkt-tefal-bl19h4fo .rkt-tefal-bl19h4fo__container ul li {
+    font-size: -webkit-calc(14px + 6 * (100vw - 320px) / 1600);
+    font-size: calc(14px + 6 * (100vw - 320px) / 1600);
+  }
+}
+@media (min-width: 1024px) {
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__series p span {
+    font-size: 16px;
+  }
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__text p span {
+    font-size: 14px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1920px) {
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__text p span {
+    font-size: -webkit-calc(10px + 4 * (100vw - 320px) / 1600);
+    font-size: calc(10px + 4 * (100vw - 320px) / 1600);
+  }
+}
+@media (min-width: 1024px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt {
+    -webkit-border-radius: 30px;
+            border-radius: 30px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1920px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt {
+    -webkit-border-radius: -webkit-calc(8px + 22 * (100vw - 320px) / 1600);
+            border-radius: calc(8px + 22 * (100vw - 320px) / 1600);
+  }
+}
+@media (min-width: 1024px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt h4 {
+    font-size: 16px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1920px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt h4 {
+    font-size: -webkit-calc(8px + 8 * (100vw - 320px) / 1600);
+    font-size: calc(8px + 8 * (100vw - 320px) / 1600);
+  }
+}
+@media (min-width: 1024px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt p {
+    font-size: 16px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1920px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt p {
+    font-size: -webkit-calc(9px + 7 * (100vw - 320px) / 1600);
+    font-size: calc(9px + 7 * (100vw - 320px) / 1600);
+  }
+}
+@media (min-width: 1024px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt p span {
+    font-size: 12px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1920px) {
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt p span {
+    font-size: -webkit-calc(8px + 4 * (100vw - 320px) / 1600);
+    font-size: calc(8px + 4 * (100vw - 320px) / 1600);
+  }
+}
+@media (min-width: 1024px) {
+  #rkt-tefal-bl19h4fo .box-table__text p {
+    font-size: 16px;
+  }
+}
+@media (min-width: 1024px) and (max-width: 1920px) {
+  #rkt-tefal-bl19h4fo .box-table__text p {
+    font-size: -webkit-calc(12px + 4 * (100vw - 320px) / 1600);
+    font-size: calc(12px + 4 * (100vw - 320px) / 1600);
+  }
+}
+@media (min-width: 1024px) {
+  #rkt-tefal-bl19h4fo .aside__box {
+    display: block;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+            box-sizing: border-box;
+    background-color: #9ec898;
+    -webkit-box-flex: 0;
+    -webkit-flex: 0 0 360px;
+       -moz-box-flex: 0;
+        -ms-flex: 0 0 360px;
+            flex: 0 0 360px;
+  }
+}
+@media screen and (min-width: 1024px) and (max-width: 1200px) {
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__logo {
+    padding: 18px 25px;
+  }
+  #rkt-tefal-bl19h4fo .top-tefal-bl19h4fo__text {
+    padding: 25px 35px;
+  }
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__text {
+    padding: 10px 25px;
+  }
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__txt-bg {
+    padding: 15px 25px;
+  }
+  #rkt-tefal-bl19h4fo .row-tefal-bl19h4fo__icon {
+    padding: 10px 25px;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(-n+3) {
+    left: 35px;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-child(5) {
+    top: 45%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__item:nth-last-child(-n+3) {
+    right: 35px;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__txt {
+    padding: 10px 15px;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_1 {
+    right: -39%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_3 {
+    right: -34%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_5 {
+    top: 46%;
+  }
+  #rkt-tefal-bl19h4fo .banner-txt-tefal-bl19h4fo__line_6 {
+    left: -43%;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text {
+    padding: 15px 20px;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text p {
+    font-size: 16px;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__text p span {
+    font-size: 36px;
+  }
+  #rkt-tefal-bl19h4fo .warranty-tefal-bl19h4fo__bott-box {
+    margin: 25px 20px;
+  }
+}/*# sourceMappingURL=style.css.map */
